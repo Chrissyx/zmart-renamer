@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2006.04.09 19:45:39.703.pas,D:\Dokumente und Einstellungen\Chrissyx\Eigene Dateien\Borland Studio Projects\Unit1.pas=D:\Dokumente und Einstellungen\Chrissyx\Eigene Dateien\Borland Studio Projects\Renamer\mRenamer.pas</Transaction>
+    <Transaction>2006.04.09 19:45:39.703.dfm,D:\Dokumente und Einstellungen\Chrissyx\Eigene Dateien\Borland Studio Projects\Unit1.dfm=D:\Dokumente und Einstellungen\Chrissyx\Eigene Dateien\Borland Studio Projects\Renamer\mRenamer.dfm</Transaction>
+    <Transaction>2006.04.10 20:33:16.156.pas,D:\Dokumente und Einstellungen\Chrissyx\Eigene Dateien\Borland Studio Projects\Renamer\Unit1.pas=D:\Dokumente und Einstellungen\Chrissyx\Eigene Dateien\Borland Studio Projects\Renamer\mOptionen.pas</Transaction>
+    <Transaction>2006.04.10 20:33:16.156.dfm,D:\Dokumente und Einstellungen\Chrissyx\Eigene Dateien\Borland Studio Projects\Renamer\Unit1.dfm=D:\Dokumente und Einstellungen\Chrissyx\Eigene Dateien\Borland Studio Projects\Renamer\mOptionen.dfm</Transaction>
+    <Transaction>2006.04.10 20:53:26.671.pas,D:\Dokumente und Einstellungen\Chrissyx\Eigene Dateien\Borland Studio Projects\Renamer\ABOUT.pas=D:\Dokumente und Einstellungen\Chrissyx\Eigene Dateien\Borland Studio Projects\Renamer\mAbout.pas</Transaction>
+    <Transaction>2006.04.10 20:53:26.671.dfm,D:\Dokumente und Einstellungen\Chrissyx\Eigene Dateien\Borland Studio Projects\Renamer\ABOUT.dfm=D:\Dokumente und Einstellungen\Chrissyx\Eigene Dateien\Borland Studio Projects\Renamer\mAbout.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
